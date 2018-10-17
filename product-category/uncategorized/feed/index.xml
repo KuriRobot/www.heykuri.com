@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Hey Kuri</title>
+	<atom:link href="/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Tue, 16 Oct 2018 20:26:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Kuri</title>
+		<link>/product/kuri/</link>
+		<pubDate>Wed, 14 Mar 2018 17:05:21 +0000</pubDate>
+		<dc:creator><![CDATA[heykuri_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://heykuri/?post_type=product&#038;p=11</guid>
+		<description><![CDATA[<p>Kuri is a thoughtfully designed to fit into your home. Check-in while you're away, record special moments, entertain your household with music, and so much more.</p>
+<p>The post <a rel="nofollow" href="/product/kuri/">Kuri</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/product/kuri/">Kuri</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

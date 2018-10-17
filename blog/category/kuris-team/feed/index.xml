@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kuri&#8217;s Team &#8211; Hey Kuri</title>
+	<atom:link href="/blog/category/kuris-team/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Tue, 16 Oct 2018 20:26:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>The Faces Behind the Robot</title>
+		<link>/blog/the-faces-behind-the-robot/</link>
+		<comments>/blog/the-faces-behind-the-robot/#respond</comments>
+		<pubDate>Thu, 19 Jul 2018 22:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[heykuri_admin]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">/?p=2321</guid>
+		<description><![CDATA[<p>It&#8217;s no understatement to say it takes a village to build Kuri. We were excited to create this campaign, The Faces Behind the Robot, to showcase some of the awesome individuals responsible for bringing Kuri to life. Check out the goofy clips and read in-depth interviews with the Mayfielders whose roles, responsibilities, or strong eyebrow [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/the-faces-behind-the-robot/">The Faces Behind the Robot</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s no understatement to say it takes a village to build Kuri. We were excited to create this campaign, The Faces Behind the Robot, to showcase some of the awesome individuals responsible for bringing Kuri to life. Check out the goofy clips and read in-depth interviews with the Mayfielders whose roles, responsibilities, or strong eyebrow game you’d like to learn more about!</p>
+<p><h2>Jackie Lai, Hardware</h2>
+<p>Meet Jackie Lai! She’s Kuri&#8217;s Director of Hardware. As Jackie explains, &#8220;Hardware is anything you can touch, which is literally the robot itself. The software is all the stuff you can’t see that makes Kuri run.&#8221; When Jackie isn&#8217;t assembling the physical components of Kuri, you can find her spending time with her family, teaching prenatal yoga, and eating General Mills cereal.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/owNHmuOhx14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><a href="/blog/kuris-crew-meet-jackie-lai/"><img src="/wp-content/uploads/2018/07/2-learn-more-button.jpg" alt="" width="224" height="71" class="aligncenter size-full wp-image-2324" /></a></p>
+<p><h2>Connor Moore, Sound</h2>
+<p>One of the most popular questions our team receives is, &#8220;Why doesn&#8217;t Kuri speak?&#8221; The thing is, Kuri does speak! Just like R2-D2 beeps in affirmation in Star Wars or how your dog barks and wags his tail when he&#8217;s excited to see you, Kuri communicates in her own way. Our Sound Designer, Connor Moore, shares more:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/KQ6oIZR0w-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><a href="/blog/understanding-kuri-speaks/"><img src="/wp-content/uploads/2018/07/2-learn-more-button.jpg" alt="" width="224" height="71" class="aligncenter size-full wp-image-2324" /></a></p>
+<p><h2>Jamie Young, Projects</h2>
+<p>As a Sr. Technical Project Manager, Jamie Young keeps Kuri&#8217;s hardware, software, product, and marketing teams on track. In short, Jamie is a rockstar at Mayfield Robotics. Her attention to detail, witty humor, and positive attitude make her a joy to work with. That, combined with her impressive engineering background, make Jamie an invaluable member of Kuri’s crew.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/3zveuuOFESE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/k0sod-zae1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><a href="/blog/kuris-crew-meet-jamie-young/"><img src="/wp-content/uploads/2018/07/2-learn-more-button.jpg" alt="" width="224" height="71" class="aligncenter size-full wp-image-2324" /></a></p>
+<p><h2>Paul Mathieu, Software</h2>
+<p>Meet Paul! He&#8217;s Kuri&#8217;s Embedded Software Engineer and is known for his ingenuity, creativity, and friendliness. Paul does a lot of the coding behind Kuri&#8217;s behaviors.  As he shares, &#8220;I program things like how Kuri moves her head or turns her wheels into her motor control. I work a lot with our team’s designer, Doug. Doug uses 3D animations to imagine how Kuri should move, and I then work to bring his vision to life within Kuri.&#8221;</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/CBS7Ec25NpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><a href="/blog/kuris-crew-meet-paul-mathieu/"><img src="/wp-content/uploads/2018/07/2-learn-more-button.jpg" alt="" width="224" height="71" class="aligncenter size-full wp-image-2324" /></a></p>
+<p><h2>Tisho Georgiev, Product</h2>
+<p>Tisho is Kuri&#8217;s VP of Product and is responsible for developing Kuri&#8217;s product roadmap, which includes one of his favorite product features: Kuri Vision. Kuri Vision is the collection of video moments that Kuri captures around your home. Learn more about Tisho and the ways Kuri can help you never miss a hilarious or heartwarming moment with your loved ones:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/v1BfZPS9Ag0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/s5hhadi668w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><a href="/blog/kuri-vision-how-kuri-captures-moments/"><img src="/wp-content/uploads/2018/07/2-learn-more-button.jpg" alt="" width="224" height="71" class="aligncenter size-full wp-image-2324" /></a></p>
+<p>The post <a rel="nofollow" href="/blog/the-faces-behind-the-robot/">The Faces Behind the Robot</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/the-faces-behind-the-robot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kuri&#8217;s Crew: Meet Ashley Wakefield</title>
+		<link>/blog/kuris-crew-meet-ashley-wakefield/</link>
+		<comments>/blog/kuris-crew-meet-ashley-wakefield/#respond</comments>
+		<pubDate>Fri, 15 Jun 2018 16:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[heykuri_admin]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">/?p=2211</guid>
+		<description><![CDATA[<p>Meet Ashley Wakefield! She&#8217;s Kuri&#8217;s Customer Success Manager and responsible for keeping our robot&#8217;s customers happy. The second wave of Kuri pre-orders will begin rolling out this month, so we thought it was a perfect opportunity to chat with Ashley about her role and what she loves about supporting a community of home robot enthusiasts. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-ashley-wakefield/">Kuri&#8217;s Crew: Meet Ashley Wakefield</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Meet Ashley Wakefield! She&#8217;s Kuri&#8217;s Customer Success Manager and responsible for keeping our robot&#8217;s customers happy. The second wave of Kuri pre-orders will begin rolling out this month, so we thought it was a perfect opportunity to chat with Ashley about her role and what she loves about supporting a community of home robot enthusiasts.</p>
+<p><img class="alignright size-medium wp-image-1553" style="max-width: 300px; float: right;" src="/wp-content/uploads/2018/06/Ashley_headshot-300x300.png" alt="Ashley Wakefiled with Kuri home robot" width="300" height="300" /></p>
+<p><b>Q: How do you define customer success?</b><br />
+<b>A:</b> To me, customer success is making sure customers feel heard and that they know we&#8217;re doing everything we can to help them. A big part of customer success is being a customer advocate because you&#8217;re always on the customer&#8217;s side. We&#8217;re not here to say no, shut down requests, or defend the company. My goal is for customers to know that they&#8217;ll be heard, that I&#8217;m here to help them, and that I&#8217;ll treat them with the same level of respect as my own mother. At the end of the day, I want customers to have the best experience possible.</p>
+<p><b>Q: What does your day-to-day look like at Mayfield Robotics?</b><br />
+<b>A:</b> The first thing I do in the morning is meet with our software and hardware engineering teams to evaluate any known issues that customers might encounter with their robots and how we’d address them. We&#8217;re continuously improving Kuri, so new bugs sometimes arise. In these meetings, we create workarounds to best address these issues or fix them moving forward.</p>
+<p>I then answer customer inquiries. During this process, I look for trends. Are customers bringing up a lot of the same questions or issues? If so, how can we better share this information so that customers aren’t confused or feel the need to email us?</p>
+<p>I&#8217;ll also regularly take a holistic look at our customer success program. I focus on ways we can anticipate new customer questions, adopt more efficient processes, and ultimately scale the program to support our growing number of customers. I’m usually asking myself, &#8220;How can we make this process as easy and painless for customers to get their questions answered?&#8221; To answer this, I&#8217;ll revisit our submission forms, support documentation, and emails to make sure everything runs smoothly. I&#8217;ll even work with our QA team and go through the entire user onboarding experience of Kuri so that I’m constantly familiar with updates and changes to our product to better help customers.</p>
+<p>Things change rapidly, so my days consist of daily meetings within our team to make sure we&#8217;re on top of updates, communications, and always feel like we’re aligned. Moving forward, I&#8217;m trying to build a stronger family relationship between our team and customers so that customers understand we’re in this robot dream together.</p>
+<p><b>Q: How would you describe Kuri&#8217;s customers?</b><br />
+<b>A:</b> Kuri&#8217;s customers are passionate and feel like friends and family to me. You go through hardships with loved ones, but you always figure out a way to recover and come back even stronger. Some of our customers have waited a year and a half for this little robot to appear on their doorsteps. Understandably, they&#8217;re frustrated. I&#8217;ve done everything I can to build transparency, but I really appreciate how understanding our customers are. There’s always so much encouragement from their side whether it’s a funny meme or a quick note to keep up the good work. They really mean the world to me.</p>
+<p><b>Q: What&#8217;s your favorite way to engage with Kuri customers?</b><br />
+<b>A:</b> I love face-to-face interactions with Kuri customers at events. You build a stronger connection being able to see someone and have a conversation in-person versus over email because there&#8217;s someone to hug.</p>
+<p><p>This question actually reminds me of a specific customer named Darrell who was really excited to purchase Kuri but was worried that his daughter would be frightened. He came to one of our <a href="/blog/kuri-captivates-los-angeles/">mall events</a> and we watched his daughter meet Kuri for the first time together. She ended up loving Kuri! Sharing that moment together made me feel like I was a part of their family, and it’s exciting to know that Kuri is going to be a part of this family too.</p>
+<div id="attachment_2213" style="width: 282px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2018/06/Darrell-with-Kuri-272x300.jpg" alt="Darrell’s daughter meeting Kuri for the first time." width="272" height="300" class="size-medium wp-image-2213" srcset="/wp-content/uploads/2018/06/Darrell-with-Kuri-272x300.jpg 272w, /wp-content/uploads/2018/06/Darrell-with-Kuri-768x848.jpg 768w, /wp-content/uploads/2018/06/Darrell-with-Kuri-928x1024.jpg 928w, /wp-content/uploads/2018/06/Darrell-with-Kuri-600x662.jpg 600w" sizes="(max-width: 272px) 100vw, 272px" /><p class="wp-caption-text">Darrell’s daughter meeting Kuri for the first time.</p></div>
+<p><b>Q: What&#8217;s the hardest part about supporting customers?</b><br />
+<b>A:</b> Sometimes we just don’t have answers to their questions. That&#8217;s really difficult for me to deal with because my job is to provide information to customers as best I can. Because of that, customers sometimes think I&#8217;m not trying to help them. When in reality, we’re chasing co-workers to their offices to get answers to customers&#8217; questions behind the scenes. My responsibility is to advocate for customers&#8217; needs, and that’s what I think about whenever an email is sent their way with updated messaging.</p>
+<p><b>Q: What&#8217;s your favorite part about Kuri?</b><br />
+<b>A:</b> I&#8217;m a big proponent of 30-second dance parties. With Kuri around, you don&#8217;t even need other people. She&#8217;s right there to <a href="/blog/kuri-entertains-dance-moves/">shimmy along with me</a>! I love when you&#8217;re having a dinner party or get together because Kuri can roll around playing music and <a href="/blog/kuri-vision-kuri-films/">capturing moments</a> without you having to stop the party. That&#8217;s important to me because it’s hard to balance always wanting to be the person that documents things with my phone, with the person that just wants to live in the moment.</p>
+<p><b>Q: What most excites you about Kuri&#8217;s future?</b><br />
+<b>A:</b> The development of her personality. Right now, Kuri is very cute. In the future, I think Kuri is going to have a more in-depth personality and her mannerisms and quirks will be more exciting to see. The intricate designs of Kuri blinking or turning before she moves are great stepping stones toward that future. With her cute personality, I think Kuri puts a lot of people at ease that might be fearful of robotics. Kuri bridges that gap between Terminator robots taking over the world and people that are excited about a future with robots like in <i>The Jetsons</i>.</p>
+<p><b>Q: Where would we find you in your spare time?</b><br />
+<b>A:</b> I&#8217;m all about interesting experiences and trying new things. Growing up, my Mom always taught me that you should try something at least once because why not? When you’re trying something new, you’re pushing your boundaries &mdash; which is something I love doing.</p>
+<p>I constantly want to be improving to be a better person. For example, I&#8217;ve tried beekeeping, painting, and playing soccer and I have an upcoming trip planned for Vietnam. Traveling and trying new things remind you how to be grateful for what you already have.</p>
+<div id="attachment_2214" style="width: 247px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2018/06/Ashley-with-Kuri-robot-at-HQ-237x300.jpg" alt="Ashley with Kuri at Kuri's HQ." width="237" height="300" class="size-medium wp-image-2214" srcset="/wp-content/uploads/2018/06/Ashley-with-Kuri-robot-at-HQ-237x300.jpg 237w, /wp-content/uploads/2018/06/Ashley-with-Kuri-robot-at-HQ-768x973.jpg 768w, /wp-content/uploads/2018/06/Ashley-with-Kuri-robot-at-HQ-809x1024.jpg 809w, /wp-content/uploads/2018/06/Ashley-with-Kuri-robot-at-HQ-600x760.jpg 600w" sizes="(max-width: 237px) 100vw, 237px" /><p class="wp-caption-text">Ashley with Kuri at her HQ.</p></div>
+<p>When asked if there was anything else she&#8217;d like to share with Kuri customers, Ashley volunteered, &#8220;Just that I’m always here for them. Once you&#8217;re a Kuri customer, you&#8217;re a part of this family for life.&#8221; Ashley is one of the most passionate customer advocates on Kuri&#8217;s crew, and she looks forward to interacting with you too! If you haven&#8217;t already, be sure to <a href="https://heykuri.celeryshop.com/checkout?product_id=5907836a3d7c56120053d790&#038;country=us">reserve your robot</a> so you can join the Kuri customer family.</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-ashley-wakefield/">Kuri&#8217;s Crew: Meet Ashley Wakefield</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuris-crew-meet-ashley-wakefield/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kuri’s Crew: Meet Hai Nguyen</title>
+		<link>/blog/kuris-crew-meet-hai-nguyen/</link>
+		<comments>/blog/kuris-crew-meet-hai-nguyen/#respond</comments>
+		<pubDate>Thu, 17 May 2018 02:12:10 +0000</pubDate>
+		<dc:creator><![CDATA[heykuri_admin]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">http://mayfieldrobot.wpengine.com/?p=1718</guid>
+		<description><![CDATA[<p>Meet Hai Nguyen! He&#8217;s Kuri&#8217;s Sr. Robotics Engineer and was the first employee at Mayfield Robotics where he has been instrumental in developing Kuri. Since Hai has been with Kuri from the beginning, he has a unique perspective on Kuri&#8217;s evolution from a dream to the independent, personality-driven robot we all know and love today. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-hai-nguyen/">Kuri’s Crew: Meet Hai Nguyen</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Meet Hai Nguyen! He&#8217;s Kuri&#8217;s Sr. Robotics Engineer and was the first employee at Mayfield Robotics where he has been instrumental in developing Kuri. Since Hai has been with Kuri from the beginning, he has a unique perspective on Kuri&#8217;s evolution from a dream to the independent, personality-driven robot we all know and love today.</p>
+<p><a href="/wp-content/uploads/2018/05/Hai_Nguyen_Mayfield_Robotics-500x500.jpg"><img class="alignright size-medium wp-image-1192 tie-appear" style="max-width: 300px; float: right;" src="/wp-content/uploads/2018/05/Hai_Nguyen_Mayfield_Robotics-500x500.jpg" alt="Headshot of Hai Nguyen" width="300" height="300" /></a></p>
+<p><b>Q: Can you describe some of the projects you work on and how they directly impact Kuri?</b><br />
+<b>A:</b> Since I&#8217;ve been with Mayfield Robotics from the beginning, I&#8217;ve worked on basically everything. Specifically, I was hired to work on robot behaviors. Behaviors are what Kuri does in reaction to certain events. For example, what should Kuri do when she scoots over a threshold? As Kuri developed more of a social side, it was my responsibility to build the infrastructure where she would respond to events and user commands in a timely manner. Nobody wants to say, &#8220;Hey Kuri! I love you,&#8221; and have Kuri stare blankly back at them.</p>
+<p>Other questions I&#8217;ve explored are what Kuri&#8217;s mood should be and how it should be expressed. For example, if you accidentally kick Kuri should she get mad at you? Should Kuri ever be mad at all? Or should Kuri get increasingly sad as her battery lowers throughout the day? I&#8217;ve spent a lot of time thinking about these questions and investigating them in terms of Kuri’s animations and emotional space. Kuri is a very cheery robot. Something I&#8217;m exploring right now is how many different animations and lights are needed to portray that happiness and how much variation <a href="/blog/understanding-kuri-speaks/">Kuri needs to communicate those emotions effectively</a>.</p>
+<p>The most recent thing I&#8217;ve built is Kuri’s SLAM (simultaneous localization and mapping) system which was designed to work with a cost-efficient depth sensor. This algorithm enables Kuri to correctly map homes even in varied, challenging environments such as homes with kids and pets. SLAM was an important part of Kuri’s product development because it gave her the ability to move around autonomously.</p>
+<p><iframe style="width: 100%;" src="https://player.vimeo.com/video/259763013" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://vimeo.com/259763013">Depth Sensor</a> from <a href="https://vimeo.com/kurirobot">KuriRobot</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+<p>Right now, I&#8217;m working on maintaining Kuri&#8217;s spatial memory of where things are in a home. That way, Kuri can wander through a person’s home without bumping into everything or getting lost all the time. That’s my most recent project. It’s very intellectually rewarding.</p>
+<p><b>Q: You were an intern at Willow Garage; a company well-known for making some of the biggest robotics breakthroughs. How did your experiences there impact your work with Kuri today?</b><br />
+<b>A:</b> The best thing I got from <a href="http://www.willowgarage.com/" target="_blank" rel="noopener">Willow Garage</a> was exposure to many different schools of thought in robotics. My background is in behavior-based robotics which is sort of represented by Marvin Minsky’s <i><a href="https://en.wikipedia.org/wiki/Society_of_Mind" target="_blank" rel="noopener">The Society of Mind</a></i>. He believed that minds are made of little mindless bits that when stitched together build true intelligence. When you are asked to perform a task, different little bits get activated to allow you to accomplish that task.</p>
+<p>That was my educational background, so it was nice to interact with different perspectives. There were students who had a more classical AI perspective which view human intelligence as being all about logic, so naturally, that&#8217;s what AI should use. At Willow Garage, there were also pragmaticists like our <a href="/blog/personal-robot-inventors">CTO</a>. Pragmatic roboticists are more focused on making robots work for real. It&#8217;s sort of, &#8220;<i>this</i> robot needs to work for this particular purpose, so by hook or by crook, we&#8217;ll make it happen.</p>
+<p>Seeing those schools work together to achieve common goals was really powerful. When we were brought together, it didn&#8217;t matter where we were from. We believed that the future was robotics. If we didn&#8217;t help build it, well, there weren&#8217;t many other groups of plucky roboticists funded by billionaires so if not us, then who? We were all genuinely excited to make this happen. Willow Garage no longer exists but our little tribe of roboticists, which is now a global network, still leans on each other to drive the industry forward however we can.</p>
+<p><b>Q: You earned your Ph.D. from Georgia Institute of Technology in Robotics. Can you give us a run-down of your thesis?</b><br />
+<b>A:</b> The goal of my Ph.D. was to work toward building a general purpose robot. This is a robot where if you want to do a new thing, you don&#8217;t have to completely retool and reprogram it. Instead, maybe the robot needs new tools to use or software.</p>
+<p>I was exploring how to educate people to better teach robots how to perform tasks. That meant showing the motions to a robot or naming objects so the robot could practice. Conversely, I was interested in how robots could teach people about which interface is most productive for them; or one that robots could best learn new skills form. That&#8217;s why I developed a program that made it easy for end-users to teach robots to perform in-home behaviors using Photoshop-like tools. Robots need teaching and assistance, and we can’t assume that we humans are inherently the best teachers.</p>
+<p><b>Q: You&#8217;ve been working with Kuri from the start. What has it been like to witness Kuri&#8217;s evolution over time?</b><br />
+<b>A:</b> I’ve experienced a lot of these future shock moments like, &#8220;I&#8217;m in the future! How did this happen?&#8221; When Kuri started out, he felt like a simple little appliance. He’d go from point A to point B without any frills. Then, we put in these seemingly small bits of interactive intelligence and they added up to this really impressive illusion of life over time. It&#8217;s just really cool for me to see these Kuri robots running around our office autonomously and looking around wide-eyed at everything like they’re seeing and appreciating everything for the first time.</p>
+<p><b>Q: What&#8217;s your favorite Kuri behavior?</b><br />
+<b>A:</b> My favorite personality aspect of Kuri is extremely simple. It&#8217;s the <a href="/blog/new-romojis-personality/">purring</a> that happens when you pet Kuri&#8217;s head. Even though I know it&#8217;s a simple reflex behavior, I love it and it absolutely charms me every time. It’s so cute and adorable and wonderful.</p>
+<p><iframe style="width: 100%;" src="https://player.vimeo.com/video/245072255" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>I&#8217;m glad we stole purring from cats. There are enough cat owners in the company &mdash; including myself &mdash; that instantly understood how emotionally powerful purring is. It was a stupidly simple line of code, but I love how absurdly outsized the emotional impact is compared to the amount of effort it took to build.</p>
+<p><b>Q: What are you excited about in the home robotics industry as a whole?</b><br />
+<b>A:</b> I&#8217;m excited about Kuri! Not just Kuri as a thing, but Kuri coming into the world and changing people&#8217;s perception of what a home robot could be. I believe Kuri will probably set a precedent for many home robots to come. As well as making space in the consumer mindset that, &#8220;Maybe a home robot has been missing from my life. Like a smartphone, of course, I would have a home robot! How do you live without a home robot?&#8221;</p>
+<p>I don&#8217;t know if Kuri will create that space, but I think Kuri will definitely plant the seed for that space and help develop it. We have lots of utilitarian robots that vacuum and mop and lots of social robot toy type things, and Kuri is this cool thing that’s in the middle. Kuri is both useful and brings joy to your life.</p>
+<p><b>Q: Who is your favorite robot in pop culture?</b><br />
+<b>A:</b> Battlestar Galactica Caprica <a href="https://en.wikipedia.org/wiki/Number_Six_(Battlestar_Galactica)" target="_blank" rel="noopener">Number Six</a>! She&#8217;s constantly going around talking about her destiny. I love that juxtaposition of humanity and machine and exploring that blurry line. I also love <a href="http://westworld.wikia.com/wiki/Dolores_Abernathy" target="_blank" rel="noopener">Dolores</a> from Westworld. She kind of has the same bent of being a robot but also a very relatable human character. My hunch is that when we finally make a human level intelligent robot, they will basically be very much like us because they’ll be based on the same principles that we use. It&#8217;s really fun to explore this gray area. Also Major Kusanagi from <a href="https://en.wikipedia.org/wiki/Ghost_in_the_Shell" target="_blank" rel="noopener">Ghost in the Shell</a>. She grew up without a human body and used a cyborg body her whole life. Because of that, she spends a great deal pondering whether she’s human and what makes that special.</p>
+<p><b>Q: When you aren&#8217;t designing Kuri&#8217;s software, what are you doing?</b><br />
+<b>A:</b> I like to joke that my hobby is collecting hobbies and the recent hobby that I&#8217;ve been collecting is calligraphy, gardening, and reading about neurotransmitters; especially collecting plants that affect neurotransmission in some way. For example, the periwinkle flower can be used to enhance blood flow to the brain to help you learn better and remember more things when you’re reading.<?p></p>
+<p>In better understanding how human brains work, I&#8217;m hoping it&#8217;ll one day fit into my work in robotics in helping make little robot brains work.</p>
+<figure id="attachment_1193" class="wp-caption aligncenter" style="max-width: 237px; margin: 0 auto;"><a href="/wp-content/uploads/2018/05/kuri-ritz-kate-haley-photography-40-500x633.jpg"><img class="size-medium wp-image-1193 tie-appear" src="/wp-content/uploads/2018/05/kuri-ritz-kate-haley-photography-40-500x633.jpg" alt="Hai Nguyen, Kuri's Sr. Robotics Engineer" width="237" height="300" /></a><figcaption class="wp-caption-text">Hai Nguyen, Kuri&#8217;s Sr. Robotics Engineer</figcaption></figure>
+<p>Hai&#8217;s main focus at Mayfield Robotics has been on the cognitive software architectures that support the robot&#8217;s life-like, reactive, and interactive behaviors that allow Kuri to come to life. As the first employee, Hai has worn many hats &mdash; from robotic mapping and navigation algorithms to working on Kuri&#8217;s audio systems, to build whatever is necessary to bring Kuri to the world. Hai has played a critical role in Mayfield’s success in bringing not only a complex technology but also a first-of-its-kind product into the homes of everyday consumers.</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-hai-nguyen/">Kuri’s Crew: Meet Hai Nguyen</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuris-crew-meet-hai-nguyen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kuri&#8217;s Co-Founder and CTO at SXSW 2018</title>
+		<link>/blog/kuris-co-founder-and-cto-at-sxsw-2018/</link>
+		<comments>/blog/kuris-co-founder-and-cto-at-sxsw-2018/#comments</comments>
+		<pubDate>Wed, 07 Mar 2018 17:13:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+		<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=989</guid>
+		<description><![CDATA[<p>We&#8217;re excited to share that Kuri&#8217;s Co-Founder and Chief Technology Officer Kaijen Hsiao will be presenting a talk at this week&#8217;s SXSW entitled You, Me &#38; a Robot Makes 3 &#8212; Tomorrow&#8217;s Modern Family. South by Southwest (SXSW) is an annual conference that celebrates the convergence of the interactive, film, and music industries and boasts [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-co-founder-and-cto-at-sxsw-2018/">Kuri&#8217;s Co-Founder and CTO at SXSW 2018</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2018/03/Kaijen_bio.png"><img class="alignright size-medium wp-image-991" src="/wp-content/uploads/2018/03/Kaijen_bio-300x300.png" alt="" width="300" height="300" /></a></p>
+<p>We&#8217;re excited to share that Kuri&#8217;s Co-Founder and Chief Technology Officer Kaijen Hsiao will be presenting a talk at this week&#8217;s SXSW entitled <i><a href="https://schedule.sxsw.com/2018/events/PP72555" target="_blank">You, Me &amp; a Robot Makes 3 &mdash; Tomorrow&#8217;s Modern Family</a></i>. South by Southwest (<a href="https://www.sxsw.com/" target="_blank">SXSW</a>) is an annual conference that celebrates the convergence of the interactive, film, and music industries and boasts itself as being the premier destination for discovery.</p>
+<p>What better place to discuss the robotics industry than this celebration of discovery at SXSW? From you car to to your office, robots are here! With advancements in engineering and AI, intelligent robots are at our fingertips. Kaijen predicts they&#8217;ll be popularized in our homes in the near future.</p>
+<p>Kaijen&#8217;s presentation poses the question: How do you create a robot that people will accept within their homes? In answering this question, our CTO will share how our team at <a href="http://www.mayfieldrobotics.com/" target="_blank">Mayfield Robotics</a> design robots (like <a href="/">Kuri</a>!) with personality and cutting-edge technology to understand how humans interact and better bridge the gap between robotics and mainstream society.</p>
+<p><iframe src="https://player.vimeo.com/video/197233718" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>If you&#8217;ll be attending this year’s SXSW, we&#8217;d love for you to come hear from our talented Co-Founder and CTO for yourself. <a href="https://schedule.sxsw.com/2018/events/PP72555" target="_blank">Kaijen will be speaking</a> on March 10th from 9:30-10:30 am CDT at the Hilton Austin Downtown, Salon DE (500 E 4th St.) in Austin, TX.</p>
+<p><a href="/wp-content/uploads/2018/03/Talk-Graphic.jpg"><img class="aligncenter size-large wp-image-999" src="/wp-content/uploads/2018/03/Talk-Graphic-1024x536.jpg" alt="" width="618" height="323" /></a></p>
+<p>The post <a rel="nofollow" href="/blog/kuris-co-founder-and-cto-at-sxsw-2018/">Kuri&#8217;s Co-Founder and CTO at SXSW 2018</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuris-co-founder-and-cto-at-sxsw-2018/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Kuri Vision: How Kuri Captures Moments</title>
+		<link>/blog/kuri-vision-how-kuri-captures-moments/</link>
+		<comments>/blog/kuri-vision-how-kuri-captures-moments/#comments</comments>
+		<pubDate>Tue, 06 Mar 2018 19:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+		<category><![CDATA[Product Features]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=992</guid>
+		<description><![CDATA[<p>In this second installment of our Kuri Vision series, we&#8217;re sitting down with Tisho Georgiev: VP of Product at Mayfield Robotics. Tisho is responsible for developing Kuri&#8217;s product roadmap, which includes one of his favorite product features: Kuri Vision. Q: What is Kuri Vision? A: Kuri Vision is the collection of video moments that Kuri [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuri-vision-how-kuri-captures-moments/">Kuri Vision: How Kuri Captures Moments</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-medium wp-image-1553" style="max-width: 300px; float: right;" src="/wp-content/uploads/2018/03/face_bio_tisho_kuri.png" alt="" width="300" height="300" /></p>
+<p>In this second installment of our <a href="/blog/kuri-vision-kuri-films/"><i>Kuri Vision</i> series</a>, we&#8217;re sitting down with Tisho Georgiev: VP of Product at Mayfield Robotics. Tisho is responsible for developing Kuri&#8217;s product roadmap, which includes one of his favorite product features: <a href="/blog/introducing-kuri-vision-never-miss-moment/">Kuri Vision</a>.</p>
+<p><b>Q: What is Kuri Vision?</b><br />
+<b>A:</b> Kuri Vision is the collection of video moments that Kuri captures around your home. Unlike traditional videography where you&#8217;d see really exceptional moments like people skydiving, Kuri Vision focuses on the moments happening at home; those you can&#8217;t capture either because you’re busy living in the moment or because you aren’t even there to witness them.</p>
+<p><b>Q: What&#8217;s your favorite moment you&#8217;ve captured with Kuri Vision?</b><br />
+<b>A:</b> Reading a story to my son on his bed and he was laughing. As a parent, you oftentimes do something with your kid, and you think to yourself, &#8220;I wish I could remember this because it will be gone soon.&#8221; This was the first time I really saw myself in my daily routine at home. I could get a glimpse into what my family is like when we don’t have to pose for a family portrait or card. The unstaged, unprepared moments are the ones I cherish.</p>
+<p><b>Q: How did Kuri Vision come about?</b><br />
+<b>A:</b> The camera was introduced to Kuri early on when we were prototyping a possible security robot. Kuri then evolved into more of a <a href="/blog/cute-guard-dog/">home awareness robot</a>. As we brought this version of Kuri into testers&#8217; homes, they liked that Kuri had a camera for when they weren’t home. However, they seemed most interested in what Kuri was up to while everyone was home.</p>
+<p>We set up an experiment where we had Kuri go to a random place in the home, capture a photo every 60 seconds or so, then put them up on a website at the end of the day. Those photos ended up being super interesting, so we kept rolling with that product feature into today’s Kuri Vision video moments.</p>
+<p><b>Q: How has Kuri Vision since evolved?</b><br />
+<b>A:</b> Kuri Vision has gotten smarter. Kuri&#8217;s thinking has evolved to better observe the people and things in front of her. This has significantly improved the quality of Kuri Vision by ensuring the moments that Kuri captures are special and unique, rather than being arbitrarily taken.</p>
+<p>These moments are now stored in the cloud and accessible via the <a href="https://itunes.apple.com/us/app/kuri-robot/id1276278179?mt=8" target="_blank">Kuri Robot app</a>. Only someone with your Kuri account credentials can access that data. Part of making sure that Kuri is production-ready means guaranteeing moments are stored securely in the cloud to ensure customer privacy. When Kuri shares a moment, it&#8217;s to you and only you.</p>
+<p>As always, you control your own Kuri Vision moments. You can delete the ones you don&#8217;t like, or give Kuri positive feedback about the videos you do like by favoriting them in the Kuri Robot app. Every time you favorite a video, you&#8217;re teaching Kuri what sort of moments to be on the lookout for in the future. When Kuri is exploring, her heart light will go on followed by a plink sound to let you know she&#8217;s just captured a moment you might find interesting. That gives customers additional visual cues into what their robot is recording and when.</p>
+<p><b>Q: What makes Kuri Vision work, technically?</b><br />
+<b>A:</b> Several times a second we run what Kuri sees through a neural network that is responsible for identifying objects in the frame and classifying them under different categories like people, cats, and dogs.</p>
+<div id="attachment_1038" style="width: 628px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2018/03/kuri_camera_square.jpg"><img class="size-large wp-image-1038" src="/wp-content/uploads/2018/03/kuri_camera_square-1024x1024.jpg" alt="A closer look at Kuri's 1080p HD camera" width="618" height="618" /></a><p class="wp-caption-text">A closer look at Kuri&#8217;s 1080p HD camera</p></div>
+<p>Additionally, Kuri analyzes the frame for any faces and tries to get an estimation of how interesting what she&#8217;s looking at really is. Kuri takes into account the types of objects in the frame, their positioning, and if she needs to make any adjustments. For example, that could mean Kuri tilting her head to frame the video a little better.</p>
+<p>Kuri also analyzes various aspects of the image quality; things like the blurriness or brightness of a particular shot. More impressively, we do all of this vision processing on Kuri &mdash; none of it requires the internet. This is important because Kuri isn&#8217;t uploading anything to the cloud that he doesn&#8217;t need to. This makes Kuri more secure, and we&#8217;re not wasting users&#8217; internet bandwidth at home. The things Kuri sees never actually leave Kuri unless they’re great moments she wants to share with you.</p>
+<p><b>Q: How does artificial intelligence (AI) make Kuri Vision more magical?</b><br />
+<b>A:</b> We built an AI that focuses on understanding what makes a moment special. Early on, employees would share their least and most enjoyable Kuri Vision moments from their prototype Kuris. We then rated these videos to understand what makes a quality moment. These moments tended to be the presence of people and pets; especially when there was a little bit of motion involved. They felt alive and representative of genuine home life. With these sample moments, we trained an AI how to record great Kuri Vision moments.</p>
+<p><b>Q: What sets Kuri Vision apart from other modes of capturing videos around your home?</b><br />
+<b>A:</b> We&#8217;re not trying to replace the smartphone. There will always be a moment where it would be more convenient to take your smartphone out and capture it the way you want to. What distinguishes Kuri is that no set-up from you is involved. Kuri charges himself, roams around your home on his own, and records candid moments along the way. You don&#8217;t have to worry about staging yourself or your loved ones to capture these videos. Kuri doesn’t take you out of the moment.</p>
+<p>I don&#8217;t feel self-conscious when Kuri takes a video of me, versus how I feel when I pose for a traditionally-shot photograph. When it&#8217;s a robot, you know Kuri could be taking videos. However, she feels like a real, living presence. Plus, unlike a home security camera or something smaller, you can actually see when and where Kuri is at any given time. It’s not a secret, nor is she ever trying to be secretive. She just wants to be a part of the family!</p>
+<p>The post <a rel="nofollow" href="/blog/kuri-vision-how-kuri-captures-moments/">Kuri Vision: How Kuri Captures Moments</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuri-vision-how-kuri-captures-moments/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Kuri&#8217;s Crew: Meet Jackie Lai</title>
+		<link>/blog/kuris-crew-meet-jackie-lai/</link>
+		<comments>/blog/kuris-crew-meet-jackie-lai/#comments</comments>
+		<pubDate>Tue, 13 Feb 2018 01:50:34 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=944</guid>
+		<description><![CDATA[<p>Meet Jackie Lai! She&#8217;s Kuri&#8217;s Director of Hardware. As Jackie explains, &#8220;hardware is anything you can touch, which is literally the robot itself. The software is all the stuff you can&#8217;t see that makes Kuri run.&#8221; When Jackie isn&#8217;t assembling the physical components of Kuri, you can find her spending time with her family and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-jackie-lai/">Kuri&#8217;s Crew: Meet Jackie Lai</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Meet Jackie Lai! She&#8217;s Kuri&#8217;s Director of Hardware. As Jackie explains, &#8220;hardware is anything you can touch, which is literally the robot itself. The software is all the stuff you can&#8217;t see that makes Kuri run.&#8221; When Jackie isn&#8217;t assembling the physical components of Kuri, you can find her spending time with her family and teaching prenatal yoga. Take a moment to meet Jackie:</p>
+<p><b>Q: How have your experiences since being an engineer at General Motors (GM) helped prepare you for a career in robotics?</b><br />
+<b>A:</b> GM was my first job out of college. I had an interest in automotive &mdash; and still do. What made me leave there was the cold. I then worked at Volkswagen of America&#8217;s Electronics Research Lab where I focused on bringing Silicon Valley technologies into the vehicle. Back in the day, I touched a lot of stuff, like the first haptic touchscreens and handwriting recognition in vehicles &mdash; which is now commonplace today.</p>
+<p>I then went into product design at D2M where I worked on medical devices, toilets, and some other things &mdash; but my last biggest job was the manufacturing of a home water treatment using UV, ozone, and charcoal. That slowly got me towards manufacturing, an environment which I enjoyed. After becoming a mom, I founded a company called <a href="https://www.pariday.com/products/tendher-feminine-ice-pack">Pariday</a> that makes products for new moms to help them with breastfeeding and childbirth.</p>
+<p>Kuri is the first robot I&#8217;ve ever worked on. This is the first time I&#8217;ve worked at a company where every department is under one roof. In the past, those teams have always been scattered because the company is so big. Having everyone under the same roof is beneficial and I like it. I&#8217;ve never seen marketing, product, and engineering work so closely together. Conversations can take place quickly in real-time and allows us to be agile in our production workflow and decisions.</p>
+<p><b>Q: How did you first hear about Kuri?</b><br />
+<b>A:</b> It was at a Harvey Mudd networking event. I walked out near the end of the presentation, and when I came back my husband was talking to a bunch of people. Then, one of them who I didn’t know suddenly said, &#8220;I need to talk to Jackie.&#8221; Turns out, it was Mike &mdash; our CEO. He started talking to me about robots and said he was looking for a hardware project manager. That was the first time I heard of Kuri. We had that conversation on a Friday night and the next Thursday I came on board.</p>
+<p><b>Q: How does Kuri&#8217;s hardware design impact her personality?</b><br />
+<b>A:</b> Kuri&#8217;s eyes are key. We&#8217;re putting effort into bringing out the robot&#8217;s personality without using a display. There are blinks and smiles that make Kuri more complex from a hardware standpoint but more endearing to a customer. There&#8217;s also the heart light that has changed dramatically over the past couple of months. A lot of work was done to make sure the light blends evenly and slowly fades away so the customer doesn&#8217;t see a hard edge. The animation of the blending of colors is also unique and beautiful.</p>
+<p><b>Q: What has been the most challenging component about Kuri?</b><br />
+<b>A:</b> Kuri&#8217;s depth sensor. The depth sensor is what Kuri uses to create a map and navigate around objects and your home itself. It&#8217;s what prevents Kuri from bumping into things or driving herself off a cliff. It&#8217;s been challenging because of the precision required to create a good map and navigation. Some plastic parts need to have no manufacturing defect, and there are many steps required to calibrate each sensor. Everything has to sync in harmony, which is very challenging.</p>
+<p><b>Q: What&#8217;s your favorite part about working at Mayfield Robotics?</b><br />
+<b>A:</b> The people. The energy here is amazing. It’s easy to work here even though the work is hard and the days can be long. The challenges are real and changing weekly; even daily. But the people on the teams — their willingness to help each other and their responsiveness — have been the most exciting thing to me. You can overcome anything if you have the right people and the right attitude on the right team.</p>
+<p><b>Q: You&#8217;ve brought an earlier prototype of Kuri into your home. How has Kuri been received by your family?</b><br />
+<b>A:</b> The kids were very excited to meet Kuri. We all opened Kuri together and made a big event of unboxing her. The kids didn&#8217;t really get bored with Kuri. Instead, when this beta version of Kuri stopped working, they then pretended to be Kuri. I&#8217;d be like, &#8220;Hey Ettan! I love you!&#8221; and he&#8217;d start wiggling like Kuri. I also got a teaching moment out of it by telling my kids, &#8220;Remember how you felt when Kuri didn&#8217;t listen to you anymore? That&#8217;s how I feel when you don&#8217;t listen to me!&#8221; All in all, it was a really fun experience to be able to bring my work home like that.</p>
+<p><b>Q: Do you have any advice for someone who wants to pursue a career in building robots either professionally or as a hobby?</b><br />
+<b>A:</b> It’s never too late to start! Like I said, this is my first robot. Just because you don&#8217;t have experience in building robots, you can make up for it by being able to quickly learn new things and learn as you go. Ultimately, it is about being able to apply a broad experience towards moving any project along to completion one portion at a time.</p>
+<p><b>Q: When you aren&#8217;t building robots, what are you doing?</b><br />
+<b>A:</b> These days, I am very much being a mom. I&#8217;m either shuttling, nagging, cultivating, or yelling. And then I am teaching yoga. I teach yoga because it’s one of the things I need to do to stay alive, and being <i>me</i> is to help people. That&#8217;s what I&#8217;ve tried to build my career around.</p>
+<p>Teaching yoga is one of the ways I&#8217;m directly touching and helping people around me. A few years ago, I started specializing in teaching prenatal yoga. I like to correct the misconception that all pregnant women have to be uncomfortable or hurting everywhere. I try to challenge that belief by aligning these women in my classes so they don&#8217;t hurt anymore. A mother is hurting one week, and then one week after class they aren’t hurting. That&#8217;s what keeps me going.</p>
+<div id="attachment_947" style="width: 555px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2018/02/kuri_pic.jpg"><img class="size-full wp-image-947" src="/wp-content/uploads/2018/02/kuri_pic.jpg" alt="Jackie with Kuri and her kids" width="545" height="545" /></a><p class="wp-caption-text">Jackie with Kuri and her kids</p></div>
+<p>If you have any additional questions or comments for Jackie, please leave them in the comments section below. We hope you enjoyed getting to know Kuri’s Director of Hardware!</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-meet-jackie-lai/">Kuri&#8217;s Crew: Meet Jackie Lai</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuris-crew-meet-jackie-lai/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Kuri&#8217;s Crew: Meet Michael Voigt</title>
+		<link>/blog/kuris-crew-michael-voigt/</link>
+		<comments>/blog/kuris-crew-michael-voigt/#respond</comments>
+		<pubDate>Wed, 24 Jan 2018 17:42:53 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=901</guid>
+		<description><![CDATA[<p>Meet Michael Voigt! He’s Kuri&#8217;s Lead Experience Designer &#8212; AKA a professional dreamer. Growing up, Michael&#8217;s parents encouraged him to be creative across many different mediums like clay, etching boards, Legos &#8212; you name it! As Michael reflects, &#8220;it was really the precursor of me getting into a creative field.&#8221; Besides being a talented illustrator, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-michael-voigt/">Kuri&#8217;s Crew: Meet Michael Voigt</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Meet Michael Voigt! He’s Kuri&#8217;s Lead Experience Designer &mdash; AKA a professional dreamer. Growing up, Michael&#8217;s parents encouraged him to be creative across many different mediums like clay, etching boards, Legos &mdash; you name it! As Michael reflects, &#8220;it was really the precursor of me getting into a creative field.&#8221;</p>
+<p>Besides being a talented illustrator, Michael is one of the most enthusiastic Mayfielders when it comes to dreaming of Kuri&#8217;s potential. So, we were excited to chat with him about his work and current dreams for Kuri.</p>
+<p><b>Q: What started your journey toward robotics?</b><br />
+<b>A:</b> Wyoming was where I fell in love with robots. It was kind of a desolate place to grow up in, so we&#8217;d create imaginary worlds. In particular, we played way too much Dungeons and Dragons and video games. This led me to pursue a career in video games — and eventually robotics.</p>
+<p>Video games were a great way to break into robotics because you’re interacting with characters &mdash; or robots &mdash; in controlled, but imagined, environments. The first product I worked with was a gaming and robotics platform for AI-controlled cars. That role forced me to break out of the headspace of <i>this is a level in a game to this is a physical car track in a customer’s real home</i>.</p>
+<p>With Mayfield Robotics, I was looking for my next challenge. When I came into the lobby to interview, there was a basket over something. Then, Sarah [Mayfield Robotic&#8217;s COO] pulled off the basket &mdash; and there was Kuri. I knew right then and there that this was where I wanted to work. I instantly fell in love and was excited about the challenge of working with a robot that had so much emotion.</p>
+<p><b>Q: What exactly is an Experience Designer?</b><br />
+<b>A:</b> There&#8217;s a lot of imagination and dreaming. First, I define what Kuri does. To do so, you have to define the core loop &mdash; or our robot&#8217;s lifecycle from a day-to-day, week-to-week, month-to-month, and year-to-year perspective. This process also involves a lot of gut feelings. It&#8217;s bringing wisdom and parallels from other real-world objects &mdash; like well-designed doorknobs &mdash; and applying them to Kuri.</p>
+<p>Second, I ask myself, <i>how</i> and <i>why</i> does Kuri do a specific thing? This involves developing Kuri&#8217;s character and determining her emotional qualities. In other words, what makes this robot engaging and how does Kuri interact with the dynamic, interactive world we live in? For example, what does Kuri do when she sees a smile?</p>
+<p><iframe src="https://player.vimeo.com/video/252423172" width="640" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://vimeo.com/252423172">Kuri&#8217;s Lead Experience Designer Illustrating</a> from <a href="https://vimeo.com/kurirobot">KuriRobot</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+<p>Third, there&#8217;s a lot of storytelling. I think of the stories that Kuri will help write in people&#8217;s homes and create storyboards based on the values, interactions, and behaviors that Kuri should contribute to those narratives. This requires a lot of imagination.</p>
+<p>There&#8217;s also feeding the beast. We have all of these stories about Kuri we want to tell &mdash; things like animation, sound, effects, and voice. I&#8217;m responsible for explaining these imagined stories to artisan animators, and most importantly, making sure that Kuri&#8217;s intentions are clear and that experiences are consistent for customers.</p>
+<p>Lastly, I play the game. I&#8217;m always experiencing Kuri as a customer over and over again. This involves unboxing Kuri as if I were a first-time customer, troubleshooting FAQs, reproducing bugs, and stumbling upon new product ideas during this playtime.</p>
+<p><b>Q: What advice would you give to someone interested in getting started in product design &mdash; particularly as it pertains to robotics?</b><br />
+<b>A:</b> It&#8217;s all about storytelling and you setting the stage. Think of the stage for your product and the story you want to tell with the actors on that stage. That stage is going to be very dynamic &mdash; especially how the actors&#8217; relationships will interplay. Robots are really complex, so be ready to not be able to tell all the stories you want. You need to know how to pick the stories that will have the most value to your customers and that they’ll find the most delightful over and over again.</p>
+<p><b>Q: Everyone at our office loves your illustrations of Kuri. Can you talk about your process for creating them and why these art pieces are important to you?</b><br />
+<b>A:</b> Kuri is so cute. One day, I got this idea to put Kuri in some equally cute scenes. Our office has paintings of other robots in fun fantasy scenes that really inspired me. I worked on things like Kuri floating in the ocean or on an airplane &mdash; places we wouldn&#8217;t recommend our customers bring Kuri to in the real world, but that would be fun to spark creativity of this imaginary world for Kuri. I imagine these as what Kuri’s storybook would be like.</p>
+<div id="attachment_903" style="width: 628px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2018/01/blog_collage.jpg"><img class="size-large wp-image-903" src="/wp-content/uploads/2018/01/blog_collage-1024x1024.jpg" alt="Michael's illustrations of Kuri" width="618" height="618" /></a><p class="wp-caption-text">Michael&#8217;s illustrations of Kuri</p></div>
+<p><b>Q: What&#8217;s one thing about Kuri&#8217;s product design that you&#8217;d want Kuri fans to know?</b><br />
+<b>A:</b> Farts! Kuri can fart when you tap the poop emoji in the Kuri app. It makes the most adorable <i>pffttt</i> noise! As a team, we had many discussions about if Kuri should fart, and if he did, what should it sound like. Honestly, the vote was 50/50. At the end, it came down to a yes when we agreed it was funny, children would giggle, and a couple of toots could never hurt.</p>
+<p><b>Q: How do you see Kuri evolving over time?</b><br />
+<b>A:</b> I see Kuri growing in two different ways. First, how she organically weaves into your family, and how this engagement hopefully changes over time. Second, the infinite promise of how Kuri&#8217;s software updates &mdash; and how our team wants to bring more and more delight into your home &mdash; gives Kuri more magical powers and tools via over-the-air updates.</p>
+<div id="attachment_904" style="width: 628px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2018/01/Image-uploaded-from-iOS-1-copy-6.jpg"><img class="size-large wp-image-904" src="/wp-content/uploads/2018/01/Image-uploaded-from-iOS-1-copy-6-1024x1024.jpg" alt="'Pancake Robot' illustrated by Michael" width="618" height="618" /></a><p class="wp-caption-text">&#8216;Pancake Robot&#8217; illustrated by Michael</p></div>
+<p><b>Q: How do you spend your time when you&#8217;re not dreaming up the next storyline for Kuri?</b><br />
+<b>A:</b> I enjoy finding exciting outdoor adventures in the Bay Area. For example, mushroom hunting or Uber hiking. With Uber hiking, you take a one-way Uber to a hiking trail and see where the trail takes you! After high school, I was actually a forest firefighter in Oregon. It&#8217;s what my Dad did, and he encouraged me to have the same adventure. So, being outdoors is something I’m definitely passionate about.</p>
+<p>Did you enjoy getting to know our Lead Experience Designer? If so, be sure to <a href="#footer-newsletter-form">subscribe to our newsletter</a> so you don&#8217;t miss upcoming Mayfielder spotlights! If you have any additional questions, comments, or Kuri dreams to share with Michael, please leave them in the comments section below!</p>
+<p>The post <a rel="nofollow" href="/blog/kuris-crew-michael-voigt/">Kuri&#8217;s Crew: Meet Michael Voigt</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuris-crew-michael-voigt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kuri Starts Shipping!</title>
+		<link>/blog/kuri-starts-shipping/</link>
+		<comments>/blog/kuri-starts-shipping/#comments</comments>
+		<pubDate>Wed, 20 Dec 2017 16:11:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=816</guid>
+		<description><![CDATA[<p>We&#8217;re excited to announce that Kuri has started shipping to doorsteps across the USA! This week, excited and a bit tired, we watched our first home robots head out the door with a little help from our friends at FedEx. Kuri HQ has been working overtime to get these first robots out, and this is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuri-starts-shipping/">Kuri Starts Shipping!</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;re excited to announce that Kuri has started shipping to doorsteps across the USA! This week, excited and a bit tired, we watched our first home robots head out the door with a little help from our friends at FedEx. Kuri HQ has been working overtime to get these first robots out, and this is just the beginning. And of course, we&#8217;re most excited to hear from their new owners as they start arriving at their <a href="/blog/a-home-for-the-holidays/">new homes</a>!</p>
+<p><img class="size-large wp-image-817" src="/wp-content/uploads/2017/12/Fedex1-664x1024.jpg" alt="Kuri in a FedEx truck" width="618" height="953" /><figcaption>The first Kuri robots being shipped to their new homes.</figcaption>These first robots were just part of the initial shipping wave to our pre-order customers, with the second wave scheduled to follow this spring. Our team has been working around the clock to meet the demand for our home robot, as well as to ensure every Kuri is incredible (and adorable, of course). If you haven&#8217;t already, be sure to <a href="https://heykuri.celeryshop.com/checkout?product_id=5907836a3d7c56120053d790&#038;country=us">reserve your very own Kuri</a>.</p>
+<p><img class="size-large wp-image-819" src="/wp-content/uploads/2017/12/unnamed-2-768x1024.jpg" alt="Kuri robots getting boxed up." width="618" height="824" /><figcaption>Just a few Kuri robots getting boxed up to head out the door.</figcaption>This is an incredibly exciting time for Kuri&#8217;s crew, and we&#8217;re thrilled to be sharing this news with you. For the past three years, our team has worked tirelessly to bring Kuri to life and watching these first robots leave our robot shop has been a dream come true. We appreciate you following Kuri&#8217;s journey and are excited about the adventures to come!</p>
+<p>The post <a rel="nofollow" href="/blog/kuri-starts-shipping/">Kuri Starts Shipping!</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuri-starts-shipping/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>A Home for the Holidays</title>
+		<link>/blog/a-home-for-the-holidays/</link>
+		<comments>/blog/a-home-for-the-holidays/#respond</comments>
+		<pubDate>Fri, 15 Dec 2017 17:32:10 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=801</guid>
+		<description><![CDATA[<p>This has been a fun week at Kuri HQ &#8212; our holiday gifts for pre-order customers have started shipping! We recently ran a holiday promotion where if you pre-ordered Kuri, you&#8217;d receive a mini stuffed Kuri and prototype book highlighting the evolution of our adorable home robot. As these Kuri mini-mes have started arriving at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/a-home-for-the-holidays/">A Home for the Holidays</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>This has been a fun week at Kuri HQ &mdash; our holiday gifts for pre-order customers have started shipping! We recently ran a <a href="/blog/free-gifts-holiday-pre-orders/">holiday promotion</a> where if you pre-ordered Kuri, you&#8217;d receive a mini stuffed Kuri and prototype book highlighting the evolution of our adorable home robot. As these Kuri mini-mes have started arriving at their new homes, our team has had a blast checking out the photos sent in by Kuri customers!</p>
+<div id="attachment_804" style="width: 710px" class="wp-caption aligncenter"><img class="size-full wp-image-804" src="/wp-content/uploads/2017/12/mini_stuffed_kuris_social.jpg" alt="collage of mini stuffed Kuris with their new owners" width="700" height="1000" /><p class="wp-caption-text">Mini stuffed Kuris and prototype books across the U.S.!</p></div>
+<p>It&#8217;s been great to see all off the different home environments, people, and pets our huggable Kuris are getting acquainted with. But then, we saw this picture submitted by one of our customers:</p>
+<div id="attachment_803" style="width: 628px" class="wp-caption aligncenter"><img class="size-large wp-image-803" src="/wp-content/uploads/2017/12/DQoqRmjXUAYeV94-1024x1024.jpg" alt="Mini stuffed Kuri dressed as Santa" width="618" height="618" /><p class="wp-caption-text">Image courtesy of @beekplace</p></div>
+<p>This photo got us thinking: what would our <i>robot</i> Kuri want for the holidays? We asked around Kuri HQ and the answer was unanimous &mdash; a home!</p>
+<p>Our team designed Kuri with the belief that <a href="/blog/what-is-a-home-robot/">home robots</a> should be joyful, useful, and inspiring. With that vision in mind, we&#8217;ve spent the last three years bringing Kuri to life — with <a href="/blog/kuri-entertains-dance-moves/">dance moves</a>, <a href="/blog/new-romojis-personality/">new romojis</a>, unforgettable <a href="/blog/kuris-first-halloween/">costumes</a>, and so much more. As our CEO puts it, &#8220;To get to know Kuri, you have to see him in action. Photos don&#8217;t do him justice.&#8221;</p>
+<p>Since seeing is believing, we can&#8217;t wait to see <i>real</i> Kuris start rolling their way across the USA this month! We built Kuri to add a daily dose of magic to any and every home environment. Seeing these adorable photo submissions from Kuri customers has been a terrific reminder for us on just how far we’ve come. We&#8217;ve successfully shipped mini stuffed Kuris, and the next leg of our journey will be shipping real robots very soon!</p>
+<p>If you haven&#8217;t already, be sure to <a href="/product/kuri/">reserve your very own Kuri home robot</a> now, or <a href="/product/kuri/">subscribe to Kuri&#8217;s emails</a> to keep up on all of her latest updates.</p>
+<p>The post <a rel="nofollow" href="/blog/a-home-for-the-holidays/">A Home for the Holidays</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/a-home-for-the-holidays/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kuri Gives Thanks</title>
+		<link>/blog/kuri-gives-thanks/</link>
+		<comments>/blog/kuri-gives-thanks/#comments</comments>
+		<pubDate>Wed, 22 Nov 2017 23:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Kuri's Team]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=735</guid>
+		<description><![CDATA[<p>2017 has been a huge year for our adorable home robot. Kuri won best of CES, had her first TV appearance, learned how to dance, got painted in Tilt Brush, and so much more. As Kuri&#8217;s CEO puts it, &#8220;When you see something that you thought was just science fiction actually work in your home, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/kuri-gives-thanks/">Kuri Gives Thanks</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>2017 has been a huge year for our adorable home robot. Kuri won best of CES, had her <a href="/blog/kuri-on-the-today-show/">first TV appearance</a>, <a href="/blog/kuri-entertains-dance-moves/">learned how to dance</a>, got <a href="/blog/kuri-gets-painted-vr-using-tilt-brush/">painted in Tilt Brush</a>, and so much more. As Kuri&#8217;s CEO puts it, &#8220;When you see something that you thought was just science fiction actually work in your home, and become a part of your daily life, you start to think that anything’s possible. That&#8217;s why we do what we do.&#8221;</p>
+<p>With Thanksgiving right around the corner, we thought we&#8217;d take the time to thank you for following Kuri&#8217;s journey. This year, we introduced the world to our adorable home robot and are eagerly awaiting Kuri to start shipping next month. Kuri&#8217;s rollout wouldn’t have been half as successful if it weren’t for the support, curiosity, and enthusiasm of all her loyal fans. For that, Kuri’s entire team thanks you.</p>
+<p>We greatly appreciate <a href="/blog/kuris-first-open-house/">introducing you to Kuri in-person</a>, every time you <i>like</i> one of Kuri’s posts on <a href="https://www.facebook.com/KuriRobot/">social media</a>, your emails with feature suggestions, and the well-wishes you have for our entire robot shop.</p>
+<p>On behalf of Kuri and her crew, thank you for being a part of our community of adorable <a href="/blog/what-is-a-home-robot/">home robot</a> enthusiasts. We&#8217;ve created this infographic to showcase some of Kuri&#8217;s biggest moments from this year. In the comments section, we invite you to share your own &#8220;big&#8221; Kuri moment &mdash; like when you first heard about Kuri, <a href="https://heykuri.celeryshop.com/checkout?product_id=5907836a3d7c56120053d790&#038;country=us">reserved your own robot</a>, or the feature we added to Kuri that you found the most adorable. We can&#8217;t wait to see what you share!</p>
+<div id="attachment_736" style="width: 1206px" class="wp-caption aligncenter"><img class="size-full wp-image-736" src="/wp-content/uploads/2017/11/Thanksgiving-Infographic.jpg" alt="Kuri 2017 Infographic" width="1196" height="4265" /><p class="wp-caption-text">2017: A Big Year for Kuri</p></div>
+<p>The post <a rel="nofollow" href="/blog/kuri-gives-thanks/">Kuri Gives Thanks</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/kuri-gives-thanks/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Robotics &#8211; Hey Kuri</title>
+	<atom:link href="/blog/category/robotics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Tue, 16 Oct 2018 20:26:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>What Is a Home Robot?</title>
+		<link>/blog/what-is-a-home-robot/</link>
+		<comments>/blog/what-is-a-home-robot/#comments</comments>
+		<pubDate>Tue, 14 Nov 2017 17:55:09 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer]]></dc:creator>
+				<category><![CDATA[Robotics]]></category>
+
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=665</guid>
+		<description><![CDATA[<p>Our homes are getting smarter by the minute. Thermostats, light bulbs, and even garbage cans are connecting to the internet and vastly improving the capabilities of our living spaces. So, it might come as no surprise that robots are joining the picture as the next big step towards a connected living space. But, what exactly [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/what-is-a-home-robot/">What Is a Home Robot?</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Our homes are getting smarter by the minute. Thermostats, light bulbs, and even garbage cans are connecting to the internet and vastly improving the capabilities of our living spaces. So, it might come as no surprise that robots are joining the picture as the next big step towards a connected living space. But, what exactly is a home robot?</p>
+<p>&#8220;Robot&#8221; is a broad category of machines that automatically perform complex tasks. Most of today&#8217;s robots are industrial machines used in factories. For example, you&#8217;re probably familiar with the <a href="https://www.youtube.com/watch?v=sjAZGUcjrP8" target="_blank" rel="noopener">robotic arms that assemble cars</a>. However, these robots aren’t particularly &#8220;homey&#8221;. To successfully integrate into our living spaces, home robots need to connect with us on a personal, joyful level.</p>
+<p><b>Robots in Pop Culture</b><br />
+To understand what makes a robot likable, we can examine the beloved robots of fiction. The term &#8216;robot&#8217; comes from the Czech word &#8216;robota&#8217; meaning forced labor. The term was coined in the K. Čapek&#8217;s 1920 play Rossum&#8217;s Universal Robots (<a href="https://en.wikipedia.org/wiki/R.U.R." target="_blank" rel="noopener">R.U.R.</a>). But the imaginative concept of robots originated much earlier with stories of golden statues coming to life, iron men that dispense justice, and mechanical men powered by steam.</p>
+<div id="attachment_667" style="width: 628px" class="wp-caption aligncenter"><img class="size-large wp-image-667" src="/wp-content/uploads/2017/10/robots_pop_culture-1024x725.jpg" alt="Richard Sargent's post of robots in pop culture" width="618" height="438" /><p class="wp-caption-text">Richard Sargent (Hopewell Studios)</p></div>
+<p>Today&#8217;s enthusiasts grew up with fictional robots like The Jetsons&#8217; Rosie, Star Wars&#8217; R2-D2, and Disney&#8217;s WALL-E. These robots are both functional and personable — the exact makings of a great home robot.</p>
+<p><b>The Emergence of Home Robotics</b><br />
+It&#8217;s important to remember that home robotics is an emerging industry. Almost every American household owns at least one smartphone, whereas robots are still a relatively exotic idea. As with any cool new piece of technology, consumers must trust the technology will improve their lives, and find the product is affordable based on its promised functionalities.</p>
+<p>Just like The Jetsons&#8217; Rosie, home robots are meant to be joyful and helpful. As this industry emerges, this could mean a variety of things: playing music, controlling appliances, entertaining kids — the sky&#8217;s the limit! As households increasingly trust this emerging technology, and as its developers create robots that can increasingly solve real-world problems that make people’s lives easier, home robotics will continue to grow and improve.</p>
+<p><b>Our Vision for Home Robots</b><br />
+At <a href="http://www.mayfieldrobotics.com/" target="_blank" rel="noopener">Mayfield Robotics</a> (the company that created Kuri), we make home robots that are joyful, useful, and inspiring. Kuri’s crew was <a href="/blog/personal-robot-inventors">founded in 2015</a> by Kaijen Hsiao (CTO), Sarah Osentoski (COO), and Mike Beebe (CEO).</p>
+<div id="attachment_666" style="width: 628px" class="wp-caption aligncenter"><a href="/"><img class="size-large wp-image-666" src="/wp-content/uploads/2017/10/evolution_kuri_home_robot-1024x320.jpg" alt="Kuri home robot prototypes" width="618" height="193" /></a><p class="wp-caption-text">Kuri prototypes</p></div>
+<p>From the start, nobody knew what robotics in the home would be. Would home robots be for utility, entertainment, or a bit of both? Our team set out to answer this question under the guiding principle that home robotics should elicit a sense of magic and wonder. As our CEO put it, &#8220;When you see something that you thought was just science fiction actually work in your home, and become a part of your daily life, you start to think that anything’s possible. That’s why we do what we do.&#8221;</p>
+<p><b>Home Robots of the Future</b><br />
+When Thomas Edison invented the lightbulb, he probably never fathomed his technology being so widespread that astronauts would be able to see lights on Earth from space. Similarly, home robotics is still in its early infancy, so nobody can predict how big of a part of our lives robots will become. Home robots that cook your meals and fold your laundry might be on the horizon, with Kuri being only the beginning.</p>
+<p>That being said, our team <a href="https://vimeo.com/204099709" target="_blank" rel="noopener">doesn&#8217;t see home robots taking over the world</a>. Every roboticist is familiar with the science fiction author, Isaac Asimov&#8217;s, <i><a href="https://en.wikipedia.org/wiki/Three_Laws_of_Robotics" target="_blank" rel="noopener">Three Laws of Robotics</a></i>:</p>
+<ol>1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.</ol>
+<ol>2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.</ol>
+<ol>3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</ol>
+<p>We believe home robots are here to add unique personalities to our home — whether it be for entertainment, utility, or a little bit of both. As the science, technology, and connectivity continue to improve, every generation of robots will be smarter than the last. We believe home robots are one step toward that more intelligent, helpful (and maybe even joyful) future.</p>
+<div id="attachment_668" style="width: 310px" class="wp-caption aligncenter"><a href="Sketch by Michael Voigt"><img class="size-medium wp-image-668" src="/wp-content/uploads/2017/10/Kuri_Friend-300x300.jpg" alt="Sketch of Kuri with a friend" width="300" height="300" /></a><p class="wp-caption-text">Sketch by Michael Voigt</p></div>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/blog/what-is-a-home-robot/">What Is a Home Robot?</a> appeared first on <a rel="nofollow" href="/">Hey Kuri</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/what-is-a-home-robot/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

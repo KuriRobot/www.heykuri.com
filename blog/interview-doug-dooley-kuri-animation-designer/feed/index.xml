@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Interview: Doug Dooley, Kuri Animation Designer</title>
+	<atom:link href="/blog/interview-doug-dooley-kuri-animation-designer/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/interview-doug-dooley-kuri-animation-designer/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Wed, 02 May 2018 23:49:57 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Chris Matthews</title>
+		<link>/blog/interview-doug-dooley-kuri-animation-designer/#comment-72</link>
+		<dc:creator><![CDATA[Chris Matthews]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2017 00:00:55 +0000</pubDate>
+		<guid isPermaLink="false">http://mayfieldblog.afsbstage.com/?p=12#comment-72</guid>
+		<description><![CDATA[Hi Stephen! Kuri was a name suggested by one of our early beta-test families, and it ended up being a name we all really liked - plus, it works really well with voice commands because it&#039;s got a distinctive hard initial sound, and soft trailing sound. That way when you say &quot;Hey Kuri&quot; to get his attention, it works super reliably.  We also kinda liked that it means Chestnut in Japanese, but that was a coincidence.]]></description>
+		<content:encoded><![CDATA[<p>Hi Stephen! Kuri was a name suggested by one of our early beta-test families, and it ended up being a name we all really liked &#8211; plus, it works really well with voice commands because it&#8217;s got a distinctive hard initial sound, and soft trailing sound. That way when you say &#8220;Hey Kuri&#8221; to get his attention, it works super reliably.  We also kinda liked that it means Chestnut in Japanese, but that was a coincidence.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Stephen Kuri</title>
+		<link>/blog/interview-doug-dooley-kuri-animation-designer/#comment-71</link>
+		<dc:creator><![CDATA[Stephen Kuri]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2017 07:15:30 +0000</pubDate>
+		<guid isPermaLink="false">http://mayfieldblog.afsbstage.com/?p=12#comment-71</guid>
+		<description><![CDATA[Hi, I&#039;m Stephen Kuri.  As I&#039;m sure you know Kuri is a Very unique rather rare name.  I live in San Jose and am wondering how you decided to name your Robot.  Regards, Stephen Kuri]]></description>
+		<content:encoded><![CDATA[<p>Hi, I&#8217;m Stephen Kuri.  As I&#8217;m sure you know Kuri is a Very unique rather rare name.  I live in San Jose and am wondering how you decided to name your Robot.  Regards, Stephen Kuri</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

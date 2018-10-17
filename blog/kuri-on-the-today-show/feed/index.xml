@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Kuri on the Today Show</title>
+	<atom:link href="/blog/kuri-on-the-today-show/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/kuri-on-the-today-show/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Wed, 02 May 2018 23:49:57 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Steve</title>
+		<link>/blog/kuri-on-the-today-show/#comment-157</link>
+		<dc:creator><![CDATA[Steve]]></dc:creator>
+		<pubDate>Thu, 26 Oct 2017 13:43:55 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=509#comment-157</guid>
+		<description><![CDATA[I can&#039;t wait to get Kuri, since I was a kid I&#039;ve always wanted a robot and it looks like I&#039;m finally going to get one.]]></description>
+		<content:encoded><![CDATA[<p>I can&#8217;t wait to get Kuri, since I was a kid I&#8217;ve always wanted a robot and it looks like I&#8217;m finally going to get one.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tracy</title>
+		<link>/blog/kuri-on-the-today-show/#comment-156</link>
+		<dc:creator><![CDATA[Tracy]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2017 14:45:38 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=509#comment-156</guid>
+		<description><![CDATA[I can&#039;t wait my very own Kuri! You guys are doing a great job!]]></description>
+		<content:encoded><![CDATA[<p>I can&#8217;t wait my very own Kuri! You guys are doing a great job!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

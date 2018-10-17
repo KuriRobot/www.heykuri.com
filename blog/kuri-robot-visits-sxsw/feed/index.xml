@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Kuri, the adorable robot is headed to Austin!</title>
+	<atom:link href="/blog/kuri-robot-visits-sxsw/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/kuri-robot-visits-sxsw/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Wed, 02 May 2018 23:49:57 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Christy</title>
+		<link>/blog/kuri-robot-visits-sxsw/#comment-99</link>
+		<dc:creator><![CDATA[Christy]]></dc:creator>
+		<pubDate>Sun, 12 Mar 2017 21:09:11 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=204#comment-99</guid>
+		<description><![CDATA[Definitely going tomorrow! I wanna see this lil robot friend!]]></description>
+		<content:encoded><![CDATA[<p>Definitely going tomorrow! I wanna see this lil robot friend!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

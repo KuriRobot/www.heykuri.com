@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Kuri Goes to Stanford</title>
+	<atom:link href="/blog/kuri-stanford-cool-products-expo/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/kuri-stanford-cool-products-expo/</link>
+	<description>Meet Kuri, the adorable home robot.</description>
+	<lastBuildDate>Wed, 02 May 2018 23:49:57 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Chris Matthews</title>
+		<link>/blog/kuri-stanford-cool-products-expo/#comment-117</link>
+		<dc:creator><![CDATA[Chris Matthews]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 15:20:22 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=317#comment-117</guid>
+		<description><![CDATA[still on track, and every day brings us closer to our first shipment!]]></description>
+		<content:encoded><![CDATA[<p>still on track, and every day brings us closer to our first shipment!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mike</title>
+		<link>/blog/kuri-stanford-cool-products-expo/#comment-116</link>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Wed, 03 May 2017 17:34:18 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.heykuri.com/?p=317#comment-116</guid>
+		<description><![CDATA[Cant wait until this ships. Hope the Mayfield team and Kuri are still on track to ship by the Holidays 2017. Keep up the great work and keep the improvements coming. Thank you]]></description>
+		<content:encoded><![CDATA[<p>Cant wait until this ships. Hope the Mayfield team and Kuri are still on track to ship by the Holidays 2017. Keep up the great work and keep the improvements coming. Thank you</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
