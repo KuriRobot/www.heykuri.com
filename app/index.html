@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <script>
+      function detect() {
+        var itunesLink = 'https://itunes.apple.com/us/app/kuri-robot/id1276278179?ls=1&mt=8';
+        var googlePlayLink = 'https://play.google.com/store/apps/details?id=com.mayfieldrobotics.kuri.enterprise.master';
+
+        var redirectLink = null;
+
+        if (navigator.userAgent.match(/iPhone|iPad|iPod/i)) {
+          redirectLink = itunesLink;
+        }
+
+        if (navigator.userAgent.match(/Android/i)) {
+          redirectLink = googlePlayLink;
+        }
+
+        if (redirectLink != null) {
+          window.location.replace(redirectLink);
+        }
+      }
+
+      window.onload = detect;
+    </script>
+  </head>
+  <body></body>
+</html>
